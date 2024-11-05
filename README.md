@@ -8,7 +8,10 @@ Tests are written using Playwright and React Testing Library.
 
 ## Features
 
-Create, read, update, and delete
+* Create, read, update, and delete
+* Drag and drop to reorder items, lists, or boards
+
+![CleanShot 2024-11-04 at 19 53 14](https://github.com/user-attachments/assets/0674f94a-d583-45e3-991c-2278db30e9bc)
 
 ## Install
 
