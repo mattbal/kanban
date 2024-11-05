@@ -18,12 +18,15 @@ Tests are written using Playwright and React Testing Library.
 
 There's two ways to install:
 
-1. Install using an installer. Click the releases link in the sidebar to find the `.dmg` installer for macOS and the `.exe` installer for Windows
+1. Install using an installer.
+   
+    Click the latest Releases link in the sidebar. Then download the `.dmg` installer for macOS or the `.exe` installer for Windows. Or,
 
 2. Clone the repo and run the project in development mode.
 
-```bash
-cd kanban
-npm install
-npm run dev
-```
+    ```bash
+    // run git clone using your preferred method of HTTPS or SSH. Then,
+    cd kanban
+    npm install
+    npm run dev
+    ```
