@@ -18,7 +18,7 @@ Tests are written using Playwright and React Testing Library.
 
 There's two ways to install:
 
-1. Install using an installer. Click the releases link in the sidebar to find the installer for macOS and Windows
+1. Install using an installer. Click the releases link in the sidebar to find the `.dmg` installer for macOS and the `.exe` installer for Windows
 
 2. Clone the repo and run the project in development mode.
 
